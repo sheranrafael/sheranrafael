@@ -1,4 +1,4 @@
-### *Olá!! meu nome é Rafael Sheran* 
+### Olá!! meu nome é Rafael Sheran
 
 
 ![Rafael Sheran's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sheranrafael&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple)
@@ -7,7 +7,7 @@
  <a href = "mailto:contatosheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://https://github.com/sheranrafael" target="_blank"><img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    
-### *_Estudante de:_*
+### Estudante de:
  <a href="https://acervo.oglobo.globo.com/incoming/18800657-a99-493/imagemVerticalFotogaleria/Zico.jpg" target="_blank"><img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" target="_blank"></a>
  <a href="https://www.lance.com.br/galerias/wp-content/uploads/2023/06/whatsapp-image-2023-06-20-at-15.21.57.webp" target="_blank"><img src="https://img.shields.io/badge/CSS-593D88?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <a href="https://contenti1.espn.com.br/image/wide/622_98c3c569-21f8-3f64-bfea-42614460e7b1.jpg" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
