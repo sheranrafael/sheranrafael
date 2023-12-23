@@ -1,18 +1,16 @@
-### *Olá!! meu nome é Rafael Sheran* ![kobe](https://github.com/sheranrafael/sheranrafael/assets/154270131/a52bee49-aa50-4493-ada7-37ff9cf86204)
+### *Olá!! meu nome é Rafael Sheran* 
 
 
+![Rafael Sheran's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sheranrafael&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple)
 
-
-
--   Atualmente tenho 17 anos
--   Sou apenas um estudante de programação 
--   Pretendo trabalhar com front-end no futuro 
-
-[![Rafael Sheran's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sheranrafael&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sheranrafael/github-readme-stats#gh-dark-mode-only)
-[![Rafael Sheran's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sheranrafael&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sheranrafael/github-readme-stats#gh-light-mode-only)
-
-<a href="https://instagram.com/sheran_vitorino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:contatosheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/sheran_vitorino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-593D88?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:contatosheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://https://github.com/sheranrafael" target="_blank"><img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-   <a href="https://store.epicgames.com/pt-BR/u/f0a17939545a4fa6a50ac71b3a5b253f" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-4285F4?style=for-the-badge&logo=Epic%20Games&logoColor=white" target="_blank"></a>
    
+### *_Estudante de:_*
+ <a href="https://acervo.oglobo.globo.com/incoming/18800657-a99-493/imagemVerticalFotogaleria/Zico.jpg" target="_blank"><img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" target="_blank"></a>
+ <a href="https://www.lance.com.br/galerias/wp-content/uploads/2023/06/whatsapp-image-2023-06-20-at-15.21.57.webp" target="_blank"><img src="https://img.shields.io/badge/CSS-593D88?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="https://contenti1.espn.com.br/image/wide/622_98c3c569-21f8-3f64-bfea-42614460e7b1.jpg" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+
+  ![kobe](https://github.com/sheranrafael/sheranrafael/assets/154270131/0363dad4-5de9-4eac-aa7c-f406f79c64eb)
+
