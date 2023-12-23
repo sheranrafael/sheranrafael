@@ -13,3 +13,4 @@
   <a href="https://contenti1.espn.com.br/image/wide/622_98c3c569-21f8-3f64-bfea-42614460e7b1.jpg" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 
   ![kobe](https://github.com/sheranrafael/sheranrafael/assets/154270131/0363dad4-5de9-4eac-aa7c-f406f79c64eb)
+
