@@ -8,7 +8,7 @@
   <a href="https://https://github.com/sheranrafael" target="_blank"><img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    
 ### Estudante de:
- <a href="https://acervo.oglobo.globo.com/incoming/18800657-a99-493/imagemVerticalFotogaleria/Zico.jpg" target="_blank"><img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" target="_blank"></a>
+ <a href="https://e.imguol.com/esporte/basquete/2012/01/27/ex-jogador-do-los-angeles-lakers-kareem-abdul-jabbar-visitou-a-gavea-e-trocou-camisetas-com-patricia-amorim-1327692855811_300x300.jpg" target="_blank"><img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" target="_blank"></a>
  <a href="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fmundorubronegro.com%2Fwp-content%2Fuploads%2F2023%2F06%2FButler-e-Hugo-Souza.jpeg" target="_blank"><img src="https://img.shields.io/badge/CSS-593D88?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <a href="https://contenti1.espn.com.br/image/wide/622_98c3c569-21f8-3f64-bfea-42614460e7b1.jpg" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 
