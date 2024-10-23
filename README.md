@@ -3,7 +3,7 @@
 ![Lakers](https://github.com/sheranrafael/sheranrafael/assets/154270131/bd42aa85-7ee7-4063-8abb-08a02d87c13a)
 
 
-<a href="https://instagram.com/sheranvit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-593D88?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/slheran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-593D88?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:contatosheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://https://github.com/sheranrafael" target="_blank"><img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
