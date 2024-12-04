@@ -11,21 +11,6 @@
   <h2>⚙️ Skills</h2>
 
 <!------------------------------------------------------- Styles and Markup ----------------------------------------------------->
-<details open>
-  <summary><b>Styles and Markup</b></summary>
-
-</p>
-
-> <img src="https://img.shields.io/badge/-html5-000000?style=for-the-badge&logo=html5&color=593D88&logoColor=593D88&labelColor=0c1213">
-> <img src="https://img.shields.io/badge/-css3-000000?style=for-the-badge&logo=css3&color=F7DF1E&logoColor=F7DF1E&labelColor=0c1213">
-</details>
-
-<!--------------------------------------------------- Lenguajes de programacion ------------------------------------------------->
-<details open>
-  <summary><b>Programming Languages</b></summary>
-  
-> <img src="https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=&labelColor=0c1213">
-> <img src="https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&color=593D88&logoColor=593D88&labelColor=0c1213">
 
 <details closed>
   <summary><b> Github Stats</b></summary>
