@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=fcdc4f&random=false&width=435&lines=Ooi+eu+sou+o+Rafael!+%F0%9F%91%8B;Seja+bem+vindo+ao+meu+perfil+README!;" alt="Typing SVG" /></a>
 
-![Lakers](https://github.com/sheranrafael/sheranrafael/assets/154270131/bd42aa85-7ee7-4063-8abb-08a02d87c13a)
+
+![capa github](https://github.com/user-attachments/assets/ef70044b-5879-46c0-aa0c-861488ee0d91)
 
 
 <a href="https://instagram.com/slheran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-593D88?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
