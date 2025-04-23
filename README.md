@@ -5,7 +5,7 @@
 
 
  <a href = "mailto:contatosheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://https://github.com/sheranrafael" target="_blank"><img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://https://github.com/sheranrafael" target="_blank"><img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=black" target="_blank"></a>
 
                                                                                                                                                                                                                           
   <h2>⚙️ Skills</h2>
