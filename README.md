@@ -16,8 +16,8 @@ Systems Analysis and Development student with experience in Ruby, seeking an opp
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
- <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+ <a href = "mailto:sheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-sheran-9627aa2b3/" target="_blank">
 
 </a>
 </a>
