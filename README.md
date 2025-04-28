@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=fffff0&random=false&width=435&lines=Ooi+eu+sou+o+Rafael!+%F0%9F%91%8B;Seja+bem+vindo+ao+meu+perfil+README!;" alt="Typing SVG" /></a>
 
-<a href= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white/>
-
 
 ![capa github](https://github.com/user-attachments/assets/779c777c-b450-4209-9fff-3eb89f1b9259)
 
