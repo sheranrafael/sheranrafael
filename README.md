@@ -14,7 +14,7 @@ Systems Analysis and Development student with experience in Ruby, seeking an opp
 <div align="center">
  
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
   
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&center=true&vCenter=true&pause=1000&color=fcdc4f&random=false&width=435&lines=If+you+found+something+useful+here!;If+you+liked+it!;Please+give+me+a+star+%E2%AD%90%EF%B8%8F!;Please+follow+me!" alt="Typing SVG" /></a>
