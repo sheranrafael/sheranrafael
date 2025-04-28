@@ -17,7 +17,9 @@ Systems Analysis and Development student with experience in Ruby, seeking an opp
   <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 </a>
   
 </div>
