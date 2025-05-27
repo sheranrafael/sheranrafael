@@ -1,4 +1,4 @@
-## Sup🤙 I'm Rafael Sheran, Front-end Developer
+## Sup🤙 I'm Rafael Sheran, Backend Developer
 Student of Systems Analysis and Development with experience in Ruby, seeking an opportunity to work with Back-End development. Knowledge in Front-End integration (HTML/CSS/JS) and Ruby on Rails applications. Committed to best practices and efficient solutions.
 </div>
 <div align="center"><br>
