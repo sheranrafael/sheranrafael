@@ -15,7 +15,7 @@ I'm seeking opportunities to grow professionally in Back-End development, contri
 <div align="center">
 
   
- <a href = "mailto:sheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:sheranv@proton.me"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 </a>
 
 </a>
