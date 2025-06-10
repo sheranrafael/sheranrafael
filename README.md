@@ -16,7 +16,6 @@ I'm seeking opportunities to grow professionally in Back-End development, contri
 
   
  <a href = "mailto:sheranvitorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-sheran-9627aa2b3/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
