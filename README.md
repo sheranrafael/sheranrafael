@@ -11,6 +11,14 @@
   </samp>
 </div>
 
+<div align="center">
+  
+  <samp>
+      <br>
+      Backend developer with practical experience in Ruby on Rails, specializing in creating APIs, database modeling, and developing system logic. I work across the entire cycle, implementing solutions with backend and frontend integration
+  </samp>
+</div>
+
 <br>
 
 <div align="center" style="display: inline_block"><br>
@@ -49,7 +57,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sheranvm@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sheranrsvm@gmail.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-martins-9772b1390/)
 </div>
 <br>
